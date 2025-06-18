@@ -14,7 +14,7 @@ This project is a fully automated report generation system built using Google Ap
 
 ## Use Case
 
-Built for the **CSMB Lab at ASU**, but adaptable to:
+Built for the **CSMB at ASU**, but adaptable to:
 - Client onboarding reports
 - Intake summaries for nonprofits or incubators
 - Academic grading rubrics
